@@ -1,6 +1,6 @@
 {
   "name": "signalk-nmea0183-pmvbm-plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "SignalK plugin to parse MasterVolt NMEA0183 PMVBM sentences from BTM-iii battery monitor.",
   "main": "index.js",
   "scripts": {
